@@ -12,7 +12,7 @@ async def start_msg(bot, msg):
     await msg.reply_text(
         text=START_MESSAGE.format(message.from_user.mention),
         reply_markup=InlineKeyboardMarkup( [[
-            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇᴢ ᴄʜᴀɴɴᴇʟ", url=https://t.me/ZPB_CODES)
+            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇᴢ ᴄʜᴀɴɴᴇʟ", url="https://t.me/ZPB_CODES")
            ]]
            )
     )
