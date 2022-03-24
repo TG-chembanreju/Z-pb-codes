@@ -6,8 +6,11 @@ import random
 
 
 ALL_PIC = [
- "https://telegra.ph/file/21eae28fe6ee6776ef0b9.jpg",
- "https://telegra.ph/file/c273ae2226885e757a886.jpg"
+ "https://telegra.ph/file/4f17724d822a443817750.jpg",
+ "https://telegra.ph/file/7ecc4cc9c6128b689fdbd.jpg",
+ "https://telegra.ph/file/1681e7fbc2267c618273d.jpg",
+ "https://telegra.ph/file/aa28fa6ccac3e4dead164.jpg"
+]
 
 
 
